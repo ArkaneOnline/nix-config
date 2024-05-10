@@ -61,6 +61,9 @@
     variant = "";
   };
 
+  # Enable swap on zram
+  zramSwap.enable = true;
+
   # Enable CUPS to print documents.
   services.printing.enable = true;
 
