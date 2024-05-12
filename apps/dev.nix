@@ -5,5 +5,6 @@
     vscode
     github-desktop
     nodejs
+    gh
   ];
 }
